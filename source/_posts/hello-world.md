@@ -1,39 +1,11 @@
 ---
-title: Hello Friends!
-date: 2017-09-13
+title: Hey Guys!
+date: 2019-01-01
+category: welcome
+tag: welcome
 ---
 Welcome to Alex Blog! This is your very first post.
 
-## Quick Start
+# Quick Start
 
-### Create a new post
 
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
