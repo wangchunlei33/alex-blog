@@ -5,5 +5,4 @@
 hexo serve
 ```
 
-> preview pages
-[demo](http://localhost:4000)
+> preview pages: [demo](http://localhost:4000)
